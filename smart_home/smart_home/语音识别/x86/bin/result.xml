@@ -1,0 +1,1196 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>打开摄像头</rawtext>
+  <confidence>85</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>82</confidence>
+    <object>
+      <cmd id="7">打开摄像头</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>12</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>14</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭摄像头</rawtext>
+  <confidence>92</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>92</confidence>
+    <object>
+      <cmd id="8">关闭摄像头</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>14</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>14</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>13</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>10</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>8</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>4</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>2</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>13</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>8</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>1</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>15</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>11</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>1</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>4</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>6</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>9</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>9</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>16</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>19</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>6</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>6</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>11</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>9</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>5</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>4</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>3</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>18</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>14</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不检测烟雾了</rawtext>
+  <confidence>18</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>17</confidence>
+    <object>
+      <cmd id="6">不检测烟雾了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>播放视频</rawtext>
+  <confidence>28</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>26</confidence>
+    <object>
+      <cmd id="3">播放视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>1</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>播放视频</rawtext>
+  <confidence>24</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>30</confidence>
+    <object>
+      <cmd id="3">播放视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>10</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>11</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测温湿度</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>6</confidence>
+    <object>
+      <cmd id="4">检测温湿度</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>22</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>18</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>13</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>9</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭视频</rawtext>
+  <confidence>5</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="2">关闭视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>18</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>17</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>15</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>14</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭视频</rawtext>
+  <confidence>96</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>99</confidence>
+    <object>
+      <cmd id="2">关闭视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测烟雾</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="1">检测烟雾</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>6</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>14</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>12</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>3</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>1</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>13</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>20</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测烟雾</rawtext>
+  <confidence>3</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="1">检测烟雾</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭视频</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="2">关闭视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>10</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>10</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>10</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>7</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>2</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>5</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>14</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>打开摄像头</rawtext>
+  <confidence>55</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>55</confidence>
+    <object>
+      <cmd id="7">打开摄像头</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>8</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭摄像头</rawtext>
+  <confidence>93</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>93</confidence>
+    <object>
+      <cmd id="8">关闭摄像头</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>18</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>12</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测温湿度</rawtext>
+  <confidence>72</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>68</confidence>
+    <object>
+      <cmd id="4">检测温湿度</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>5</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>打开摄像头</rawtext>
+  <confidence>30</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>34</confidence>
+    <object>
+      <cmd id="7">打开摄像头</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不检测温湿度了</rawtext>
+  <confidence>81</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>82</confidence>
+    <object>
+      <cmd id="5">不检测温湿度了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测温湿度</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>4</confidence>
+    <object>
+      <cmd id="4">检测温湿度</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>20</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>27</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭摄像头</rawtext>
+  <confidence>40</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>39</confidence>
+    <object>
+      <cmd id="8">关闭摄像头</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭视频</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="2">关闭视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测烟雾</rawtext>
+  <confidence>67</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>63</confidence>
+    <object>
+      <cmd id="1">检测烟雾</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭视频</rawtext>
+  <confidence>9</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>10</confidence>
+    <object>
+      <cmd id="2">关闭视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>9</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>7</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>3</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不检测烟雾了</rawtext>
+  <confidence>65</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>70</confidence>
+    <object>
+      <cmd id="6">不检测烟雾了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>播放视频</rawtext>
+  <confidence>94</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>97</confidence>
+    <object>
+      <cmd id="3">播放视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>12</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>12</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>2</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关闭视频</rawtext>
+  <confidence>78</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>79</confidence>
+    <object>
+      <cmd id="2">关闭视频</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>7</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>6</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷</rawtext>
+  <confidence>8</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>19</confidence>
+    <object>
+      <cmd id="100">小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>6</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>2</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小雷小雷</rawtext>
+  <confidence>2</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="100">小雷小雷</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测温湿度</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="4">检测温湿度</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>检测烟雾</rawtext>
+  <confidence>8</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>10</confidence>
+    <object>
+      <cmd id="1">检测烟雾</cmd>
+    </object>
+  </result>
+</nlp>
