@@ -1,0 +1,9 @@
+﻿#BNF+IAT 1.0 UTF-8;
+
+!grammar cmd;
+!slot <cmd>;
+!start <cmdstart>;
+
+<cmdstart>:<cmd>;
+
+<cmd>:检测烟雾!id(1)|关闭视频!id(2)|播放视频!id(3)|检测温湿度!id(4)|不检测温湿度了!id(5)|不检测烟雾了!id(6)|打开摄像头!id(7)|关闭摄像头!id(8)|小雷!id(100)|小雷小雷!id(100)|退出!id(999)|不玩了!id(999);
